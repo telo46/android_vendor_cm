@@ -148,7 +148,6 @@ PRODUCT_PACKAGES += \
     Apollo \
     CMFileManager \
     LockClock \
-    CMUpdater \
     CMFota \
     CMAccount \
     WhisperPush
