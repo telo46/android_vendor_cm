@@ -291,8 +291,8 @@ else
 endif
 
 PRODUCT_PROPERTY_OVERRIDES += \
-  ro.cm.version=$(CM_VERSION) \
-  ro.modversion=$(CM_VERSION)
+  ro.cm.version=cm-$(CM_VERSION) \
+  ro.modversion=cm-$(CM_VERSION)
 
 -include vendor/cm-priv/keys/keys.mk
 
