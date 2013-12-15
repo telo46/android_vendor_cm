@@ -147,6 +147,8 @@ PRODUCT_PACKAGES += \
     CMWallpapers \
     Apollo \
     CMFileManager \
+    ScreenRecorder \
+    libscreenrecorder \
     LockClock \
     CMFota \
     CMAccount
